@@ -1,8 +1,8 @@
 from airport_search import Airports
 from airport_mapping import AirportMap
 
-dAddress = "Los Angeles"
-aAddress = "Tokyo"
+dAddress = "Toronto"
+aAddress = "New York"
 kms = 80
 
 dAirports = Airports(dAddress, kms)
