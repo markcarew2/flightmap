@@ -4,6 +4,6 @@ The program uses a data set of airports from 2017 and flight paths from 2014. Th
 
 The map is built using folium, ARCGIS, and geographiclib to draw the geodesic lines.
 
-This program can be implemented in a website e.g.: https://simple-website112233.herokuapp.com/flightsearch/
+This program can be run on a website. It used to be run here but no longer e.g.: https://simple-website112233.herokuapp.com/flightsearch/
 
-The locations and the radius around them can be changed in the main.py file.
+The locations and the radius around the airports can be changed in the main.py file.
